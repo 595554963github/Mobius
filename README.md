@@ -1,7 +1,6 @@
 # Mobius
 Forked from AdibSurani/Mobius    3ds moflex video convert to mp4
 
-# Mobius
 Mobius is a program for transcoding Mobiclip videos (`.moflex` or `.mods`) to `.mp4`.
 The source is based on Gericom's [MobiclipDecoder](https://github.com/Gericom/MobiclipDecoder).
 Mobius also uses ffmpeg for the output ?a static binary for Windows can be obtained from the [FFmpeg builds](https://ffmpeg.zeranoe.com/builds/) page.
